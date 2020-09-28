@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 html {
@@ -229,4 +228,10 @@ html {
   font-size: 1.4rem;
   font-family: "Roboto", sans-serif;
   padding-left: 1rem;
+}
+
+/* SECOND PAGE DESIGN */
+.second-hero-section {
+  height: 100vh;
+  width: 100%;
 }
